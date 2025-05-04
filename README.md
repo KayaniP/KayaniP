@@ -101,6 +101,6 @@ Me chamo Kayani Pereira, tenho 22 anos e atualmente sou graduanda em Engenharia 
 </p>
 
 ![Snake animation]
-(https://github.com/KayaniP/KayaniP/blob/output/github-contribuition-grid-snake.svg)
+(https://github.com/KayaniP/KayaniP/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github=readme-stats.vercel.app/api/pin/?username=KayaniP&repo=KayaniP&theme=react)](https://github.com/KayaniP/KayaniP))
