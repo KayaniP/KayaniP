@@ -91,6 +91,10 @@ Me chamo Kayani Pereira, tenho 22 anos e atualmente sou graduanda em Engenharia 
 
 ###
 
-![snake gif](https://github.com/KayaniP/KayaniP/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KayaniP/KayaniP/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KayaniP/KayaniP/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+</picture>
 
 
